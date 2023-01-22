@@ -24,3 +24,43 @@
                 </div>
                 <div class="col align-self-center"><img class="home" src="images/home.png" alt="home button"></div>
             </div>
+ <!--second row-->
+            <div class="row2">
+                <div class="col align-self-center"><img class="logo" src="images/left.jpg" alt="logo"></div>
+                <div class="col align-self-center">
+                    <p><div class="matn">Gheimeh Stew( A mix of split peas, French fries and pieces of meat) with Cooked Rice<div class="price">$11 </div></div></p>
+                    <p><div class="matn1"> Sabzi Polo( Cooked rice with a special herb) with Fish<div class="price1"> $11</div></div></p>
+                    <p><div class="matn2"> Ghormeh Sabzi Stew( A mix of kidney beans, small pieces of meat and a special herb) with Cooked Rice<div class="price2">$11 </div></div></p>
+                    <p><div class="matn3">Chicken Tah-chin( A mix of chopped chicken and cooked rice)<div class="price3">$11 </div></div></p>
+                    <p><div class="matn4">Broad Bean Cooked Rice with Meat<div class="price4">$11 </div></div></p>
+                    <p><div class="matn5">Roasted Chicken with Cooked Rice<div class="price5">$11 </div></div></p>
+                    <p><div class="matn6">Bakhtiari Kebab with Cooked Rice<div class="price6">$11 </div></div></p>
+                </div>
+                <div class="col align-self-center"><img class="home" src="images/right.jpg" alt="home button"></div>
+            </div>
+    
+        </div>
+
+  <footer>
+          <div class="footer-box">
+            <div>
+              <P>Street level,<br>
+                 Alexandersgatan 52 floor 1,<br>
+                 00100 Helsingfors</P>
+            </div>
+            <div>
+              <P>Email: bon.appétit@gmail.fi</P>
+            </div>
+            <div>
+              <P>Tel: <a href="tel:+358413100635">+358 4131 00635</a></p></P>
+            </div>
+          </div>
+
+    </div>
+  </footer>
+
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js" integrity="sha384-w76AqPfDkMBDXo30jS1Sgez6pr3x5MlQ1ZAGC+nuZB+EYdgRZgiwxhTBTkF7CXvN" crossorigin="anonymous"></script>
+  </div>
+  </body>
+</html>
