@@ -1,0 +1,128 @@
+body {
+
+    background-color: #222629;
+    font-family: 'Encode Sans', sans-serif;
+    width: 1080px;
+    margin:auto;
+    display: flex;
+    justify-content: space-between;
+    color: #ffde00;
+}
+.row1{
+    display: flex;
+}
+.logo {
+
+    width: 200px;
+    margin-top: 20px;
+
+}
+
+.btn-dinner{
+    align-items: center;
+    margin: 0 0px 0 70px;
+    position: sticky;
+    width: 120px;
+}
+.menu{
+    align-items: center;
+    margin: 0px 180px 0px 0px;
+}
+
+ .btn {
+
+    background-color:#ffde00;
+    border-color:#ffde00;
+    color:#222629;
+    border-radius: 3;
+}
+.row2{
+    display: flex;
+    color: white;
+}
+
+h1 {
+    text-align: center;
+    margin-bottom: 20px;
+    color: #ffde00;
+}
+
+img {
+    width: fit-content;
+
+}
+
+.left {
+    text-align: left;
+}
+
+.center {
+    text-align: center;
+}
+
+.right {
+    text-align: right;
+}
+.price,.price1, .price2,.price3,.price4,.price5,.price6 {
+    color: #ffde00;
+}
+.price{
+    margin: 25px 30px 0 0px;
+}
+.price1{
+    margin: 25px 141px 0 0px;
+}
+.price2{
+    margin: 50px 80px 0 3px;
+}
+.price3{
+    margin: 25px 91px 0 0px;
+}
+.price4, .price5,.price6{
+    margin: 0px 0px 0 5px;
+}
+.matn,.matn1,.matn2,.matn3,.matn4,.matn5,.matn6{
+    display: flex;
+}
+.matn1{
+    display: flex;
+}
+
+.footer-box{
+    background-color: rgba(127, 125, 125, 0.786);
+    display: flex;
+    justify-content: space-between;
+}
+
+.col-md-8,.col-md-4 {
+    display:block;
+    justify-content: space-between;
+}
+
+
+@media (max-width: 1080px) {
+
+body {
+    width: fit-content;
+    margin: 0 16px 16px 16px;
+        
+}
+
+.wrapper {
+    display : flex ;
+    justify-content : center ;
+    align-items:center ;
+    height : auto;
+    width: 100%;
+}
+
+img {
+    display: block;
+    margin: 0 0 16px 0;
+}
+
+footer {
+    color: yellow;
+}
+
+}
